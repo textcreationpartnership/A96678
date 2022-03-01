@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The yovng-mans second vvarning-peece, or, A miracle of mercies being a true relation of the horrible suggestions and tentations, wherwith Satan assaulted me A. W. stationer of London : wherby he prevailed so far, as to force me to sin grosly, and to despaire fearfully, in so much that he brought me near unto the making of my selfe away, many and sundry ways, from the which the Lord in mercy delivered me :  and therefore as a testimony of my thankfullnesse to God, and love to my brethren and former sinfull associats, I have thought good to publish in print, both the manner and time of my conflict and also of my delivery.</title>
+            <author>Wildgoos, Anthony.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96678</idno>
+            <idno type="STC">Wing W2A</idno>
+            <idno type="STC">ESTC R42997</idno>
+            <idno type="EEBO-CITATION">38876083</idno>
+            <idno type="OCLC">ocm 38876083</idno>
+            <idno type="VID">152476</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96678)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152476)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2298:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The yovng-mans second vvarning-peece, or, A miracle of mercies being a true relation of the horrible suggestions and tentations, wherwith Satan assaulted me A. W. stationer of London : wherby he prevailed so far, as to force me to sin grosly, and to despaire fearfully, in so much that he brought me near unto the making of my selfe away, many and sundry ways, from the which the Lord in mercy delivered me :  and therefore as a testimony of my thankfullnesse to God, and love to my brethren and former sinfull associats, I have thought good to publish in print, both the manner and time of my conflict and also of my delivery.</title>
+                  <author>Wildgoos, Anthony.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition, corrected by the author.</edition>
+               </editionStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Anthony Wildgoose ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Perused and allowed of, by four godly, and learned Divines in this Citie."</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sin --  Early works to 1800.</term>
+               <term>Devil --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152476:1" rendition="simple:additions"/>
+            <p>THE YOVNG-MANS Second VVarning-peece: OR, <hi>A Miracle of Mercies.</hi>
+            </p>
+            <p>Being a true Relation of the horrible ſuggeſtions, and tentations, wherwith Satan aſſaulted me <hi>A. W.</hi> Stationer of <hi>London,</hi> whereby he prevailed ſo far, as to force me to ſin groſly, and to deſpaire fearfully, in ſo much, that he brought me near unto the making of my ſelfe away, many and ſundry ways, from the which the Lord in mercy delivered me.</p>
+            <p>And therefore as a teſtimony of my thankful<g ref="char:EOLhyphen"/>neſſe to God, and love to my brethren, and former ſin<g ref="char:EOLhyphen"/>full aſſociats: I have thought good to publiſh in print, both the manner and time of my conflict, and alſo of my delivery.</p>
+            <p>Peruſed and allowed of, by four godly, and learned Divines in this Citie.</p>
+            <p>The ſecond Edition, Corrected by the Author.</p>
+            <q>
+               <bibl>Ephe. 6. 13. 16.</bibl>
+               <p>Wherefore take unto you the whole Armour of God, that ye may be able to withſtand in the evill day.</p>
+               <p>Above all, taking the ſhield of faith, wherewith ye ſhall be able to quench all the fiery darts of the wicked.</p>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Anthony Wildegooſe,</hi> and are to be ſold at his houſe, in <hi>Little-Woodſtreete,</hi> in <hi>Bunting Alley.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152476:2"/>
+            <pb n="1" facs="tcp:152476:2"/>
+            <head>THE YOVNG-MANS SECOND VVARNING-PIECE.</head>
+            <head type="sub">Being a true Relation of the horrible ſuggeſtions, and tentati<g ref="char:EOLhyphen"/>ons, wherewith Satan aſſaulted me, <hi>A. W.</hi> &amp;c.</head>
+            <p>WEE read in the Goſpel of Saint <hi>Luke,</hi> that the rich man<note place="margin">Luk. 16. 27, 28</note> being in hell torments, hee prayed <hi>Abraham</hi> to ſend <hi>Lazarus</hi> to his fathers houſe, to warne his five Bre<g ref="char:EOLhyphen"/>thren, that they came not into that place of torments.</p>
+            <p>In like manner, I having been in mine owne apprehenſion, for a time, in the ſame place of torments, and thorow the mercy of the Lord, being delivered from thence; I have thought it meet to manifeſt as much charity as hee, towards my Brethren and aſſociats, in warning them by my example, to beware of com<g ref="char:EOLhyphen"/>ming into that place. And to this end, I have thought it meet to ſet forth in print, a true and perfect Relation, how I have been aſſaulted; with the fearful ſuggeſtions of Satan, as followeth.</p>
+            <p>I having been guilty of the actuall committing of ſome groſſe<note place="margin">My falling in<g ref="char:EOLhyphen"/>to ſickneſſe. Eph. 5. 3.</note> ſins, even ſuch as the Apoſtle ſaith, are not to be ſo much as once named, as becommeth Saints; it pleaſed the Lord to viſit mee, with a fearfull and dangerous ſickneſſe, which occaſioned me to call my ſins to remembrance, and I was much troubled in
+<pb n="2" facs="tcp:152476:3"/> mind about them; but within a while, even within the ſpace of two, or three dayes, it pleaſed the Lord to give me ſome eaſe, both of mind and body; at which time one <hi>William Parker</hi> comming to viſit me, I deſired him to reade ſome portion of holy Scripture unto me, which accordingly he did; and then I deſired him to reade a ſinging Pſalme unto me, which he likewiſe con<g ref="char:EOLhyphen"/>deſcended unto; and firſt we ſung together the fifteenth Pſalme, and afterwards the thirteenth, untill we came to the laſt verſe, which containeth theſe words:
+<q>
+                  <l>I will give thankes unto the Lord,</l>
+                  <l>And prayſes to him ſing,</l>
+                  <l>Becauſe he hath heard my requeſt,</l>
+                  <l>And granted my wiſhing.</l>
+               </q>
+            </p>
+            <p>And even in that moment of time, as we were entring on the<note place="margin">Satans firſt Temptation.</note> firſt part of this verſe, Satan ſtood at my right hand, tempting me to blaſpheme the great, and fearfull name of God, with the words of <hi>Iobs</hi> wife, to curſe God, &amp;c. and this he forced ſo vehemently on my mind, that I had no power to reſiſt him; in ſo much, that I thought verily I had done it indeed, and could not otherwiſe be perſwaded, ſo that upon this occaſion I was diſtracted, and could have no reſt night nor day, being verily perſwaded, that the Devil would fetch me away quick, and carry me into his own place of torments: thus I continued a while crying out, I had committed ſuch a ſinne, as there was no hope of pardon for, and I was ſo out-ragious, that no one durſt ſtay with me in the Chamber; then by my Maſters means, there came a Miniſter to viſit me, and by his inſtructions, I received a little reſt of mind for a while, but afterwards the Tempter came more vehemently, and prevailed indeed.</p>
+            <p>So that hereupon then, I cannot ſay with the Apoſtle, <hi>I knew</hi>
+               <note place="margin">2 Cor. 12. 2.</note> 
+               <hi>a man in Chriſt above fourteen yeers agoe, taken up into the third heaven:</hi> But I can ſay, I knew a man in Chriſt almoſt ten yeers<note place="margin">The Trance.</note> agoe, who was from his ſick bed caſt down into the ſecond hell, in his own apprehenſion, and there for a while moſt grievouſly tormented by the Devill, and his helliſh ſpirits; and this was very terrible unto me, eſpecially conſidering how thoſe infernall ſpirits rejoyced at my comming thither, and being amongſt thoſe
+<pb n="3" facs="tcp:152476:3"/> ſpirits, me thought, they upbrayded me with this vaine ſaying, On earth a Saint, in hell a Devill; and then how ready they were to execute their office to the full in tormenting me; alſo me thought, there were the ſpirits of ſome of my ſinfull acquain<g ref="char:EOLhyphen"/>tance there, ready to help to torment my ſoul.</p>
+            <p>And here my brethren, behold and conſider the craft and<note place="margin">Note diligent<g ref="char:EOLhyphen"/>ly.</note> ſubtilty of this curſed Hell-hound, Satan, who in all my life time before, tempted and provoked me to ſin moſt fearfully; which the Lord in his mercy was pleaſed, in the time of this my ſickneſſe, to convince my conſcience of; Satan takes occaſion, hence to ſuggeſt unto my Soul, this fearfull apprehenſion, to wit, that for my unworthy receiving of the Lords Supper, and my prophanation of his Sabbath and the like ſins, I was tormented in Hell.</p>
+            <p>Whence we may ſee and behold, that Satan ſhapes his tentati<g ref="char:EOLhyphen"/>ons<note place="margin">Obſerve.</note> according to our ſeverall ſtates, conditions and diſpoſitions.</p>
+            <p>But to proceed, after that I had lain about three or four<note place="margin">A Viſion.</note> houres in the foreſaid Trance, then me thought I was reſtored from thence, and ſtood upon the Earth, and that all the Skie was on a light fire, and that Chriſt Jeſus came to Judge the Earth, and was ſet upon his Throne, and that I was to appear before his Judgement ſeat. Immediately, then me thought I looked upon my ſelfe, and was a moſt blacke deformed and ugly Creature, both by reaſon I had beene ſuch a vile ſinner, and for that I had been in the pit of Hell; and Oh! me thought that if I were but like unto thoſe <note n="*" place="margin">Mr. <hi>Natha<g ref="char:EOLhyphen"/>niel Shute</hi> and Mr. <hi>Mulline.</hi>
+               </note> two godly Miniſters, who were about their maſters worke, or like my maſter, and my fellow prentice, or the like, then ſhould I not be afraid to appear before Jeſus Chriſt; for I conceived them to be more free from ſin then I was, &amp; that they might appeare before the Judge without fear, but that could not I do. In this trance when I had continued a while longer, I came to my ſelf, and then fell into a ſerious Conſideration of thoſe things, which were very fearfull &amp; terrible to my Soul, not onely for the preſent, but a long time after: For though it pleaſed God to heale my body, and ſo raiſe me up from my ſick bed, yet was it his good pleaſure to defer the healing of my ſoule a long time after.</p>
+            <p>In which time, the Devill, who, as Father <hi>Latimer</hi> ſpeaks of
+<pb n="4" facs="tcp:152476:4"/> him, is the onely diligent Biſhop in his Dioceſſe, did beſtir him<g ref="char:EOLhyphen"/>ſelfe, and like a roaring Lyon went about ſeeking to devoure me, tempting me to lay violent hands upon my ſelfe: And this he did firſt by tempting me and provoking me to commit groſſe ſins, and then in ſuggeſting unto me after this manner as followeth.</p>
+            <p>Wherefore doſt thou not make thy ſelfe away? thou belong<g ref="char:EOLhyphen"/>eſt not to Chriſt, therefore it is thy beſt courſe to make thy ſelfe away quickly, for thou committeſt great ſins daily, and there<g ref="char:EOLhyphen"/>fore the longer thou liveſt the greater ſinner thou wilt be, and anſwerable to thy ſins ſhall be thy torments in Hell fire. And truly brethren, this foul Fiend did prevail ſo far with me here<g ref="char:EOLhyphen"/>by, that I was divers times very neere the making away of my ſelfe; I lived ſuch a Melancholy diſcontented life, that indeed I was weary of living upon the earth, and I thought that death would put an end unto all miſeries here, and ſeeing I muſt to hell at laſt, I had as good go ſooner as later.</p>
+            <p>Whereupon, one day being very ſore aſſaulted after this man<g ref="char:EOLhyphen"/>ner;<note place="margin">Satans ſecond temptation.</note> there ſtanding a Ladder in the yard where I dwelt, I was tempted to get a Cord to have hanged my ſelfe, but through Gods great mercy I was prevented.</p>
+            <p>Then he perceiving he could not prevaile this way, he left off this tentation for a ſeaſon, and yet he left not off tempting me to the committing of groſſe ſins, and would never let me be at quiet except I were acting and committing one ſin or other to the terrour and diſquieting of my Soul, inſomuch that I lived a moſt miſerable diſcontented life, ſo that ſometimes, yea divers times I had not power to follow my Calling, but would oft ſit by the fire, or lye upon my bed divers dayes together, and neglect my buſineſſe, though I had ſcarce bread for my ſelfe and my wife.</p>
+            <p>Thus continuing for the ſpace of ſix or ſeven yeeres, after my forementioned trance, without peace or reſt, night or day, and playing many unadviſed wilfull feates, rejecting the Counſell of my beſt friends; At the laſt the old Serpent comes again, with his<note place="margin">Satans third temptation.</note> former Aſſault and Tentation, labouring to put me upon the work of ſending both my ſoul and body in a bloody Chariot ſpeedily into Hell fire.</p>
+            <pb n="5" facs="tcp:152476:4"/>
+            <p>And to effect this he takes his opportunity on a day, I lying up<g ref="char:EOLhyphen"/>on<note place="margin">Satans fourth temptation.</note> my bed in a miſerable diſcontented fit, and my wife going to market to buy proviſion, and leaving me alone, I took a knife in my hand, and put it to my throat, and did ſo much with it that blood came out and I felt it ſmart.</p>
+            <p>Whereupon it pleaſed the Eternall God, Creator and Preſerver<note place="margin">Gods merciful deliverance.</note> of all mankinde, to put this Meditation or Conſideration into my mind, O wretched man that thou art, art not thou able to abide one quarter of an houres paine and ſmart, in cutting thine owne throat, and wilt thou ſuffer the devill ſo to beguile and couzen thee ſo much, as to perſwade thee thou art able to endure eter<g ref="char:EOLhyphen"/>nall torments, and ſo to plunge thy ſoule into everlaſting miſery? Whereupon me thought I heard the voyce of God from heaven, ſaying, O do not make away thy ſelfe, doſt thou know what I have for thee to do?</p>
+            <p>And ſo <hi>My ſoul</hi> (to ſpeak in the words of the Pſalmiſt) <hi>is eſca<g ref="char:EOLhyphen"/>ped</hi>
+               <note place="margin">Pſal. 124. 7.</note> 
+               <hi>as a bird out of the ſnare of the Fowler, the ſnare is broken and I was delivered, bleſſed be the name of the Lord.</hi>
+            </p>
+            <p>Howbeit the Tempter left me not yet, but after that the Lord<note place="margin">Satans fift temptation.</note> had delivered me from my former danger, Satan followed me &amp; ſuggeſted unto me, that it were beſt for me to leave my wife and children, and live in ſome other place, and ſometimes that it were beſt for me to drown my ſelf, and very neer unto the doing of theſe and ſuch like wicked and unnaturall actions had Satan ſometimes brought me, but the Lord in mercy prevented him,</p>
+            <p>And in all this time give me leave alſo to tell you I had no heart<note place="margin">Neglect not holy duties.</note> to Prayer, for being ſuch a wicked wretch as I apprehended my my ſelfe to be, I was perſwaded that my prayers and all other duties were abominable, ſo that I did either omit them, or elſe I performed them untowardly; the truth is, I had no heart to any goodneſſe.</p>
+            <p>And thus brethren by reaſon of my yeelding unto Satans<note place="margin">Yeeld not to Satans temp<g ref="char:EOLhyphen"/>tations.</note> tempting me firſt to the committing of ſin, and then to deſpaire and make away my ſelfe, by reaſon of my ſin, I endured a hel up<g ref="char:EOLhyphen"/>on earth for the ſpace of above ten yeeres, and then it pleaſed the Lord, out of his abundant mercy, to deliver my ſoule, and that by this meanes,</p>
+            <p>I being at my work upon the 14. of <hi>November,</hi> 1643. my fel<g ref="char:EOLhyphen"/>low<note place="margin">Take notice of the Lords mer<g ref="char:EOLhyphen"/>cy to me.</note> workman and I falling into diſcourſe of good Miniſters, he told me that that evening I might heare a good Sermon at <hi>Bar<g ref="char:EOLhyphen"/>tholomew</hi>
+               <pb n="6" facs="tcp:152476:5"/> Lane, neere the <hi>Exchange,</hi> ſo we having no great haſte of work, we concluded to go together to hear it: and when we came thither we heard one Mr. <hi>Willes,</hi> whoſe Text was 1 <hi>Cor. 16. 22. If any man love not the Lord Ieſus Chriſt, let him be anathema, Maran-atha:</hi> from which Text he delivered ſuch hea<g ref="char:EOLhyphen"/>venly matter, concerning the excellent condition of them that love Chriſt, and ſo laid open the fearfull condition of them that doe not, with the properties and qualifications of true love to Chriſt, that through the mercy of God, it wrought ſo upon my inner-man, that ſince that time I bleſſe God, I have been well in minde.</p>
+            <p>And now Brethren, I beſeech you do not conceive of this Re<g ref="char:EOLhyphen"/>lation<note place="margin">Brief Exhorta<g ref="char:EOLhyphen"/>tions.</note> as a fained or forged thing, for I profeſſe unto you all, it is a moſt certain truth; and therefore I beſeech you beleeve it, and la<g ref="char:EOLhyphen"/>bour to make good uſe of it: Oh learn by my example to beware of ſin, leſt God in juſtice, not only give you over to be temporally tempted by Satan, as he formerly hath done me, but alſo to be eter<g ref="char:EOLhyphen"/>nally tormented by him, without all hope of recovery.</p>
+            <p>And you my Brethren of my Society, for to you eſpecially do I intend my Exhortation, I beſeech you conſider, that you have more means, by reaſon that your Calling is oftner to have to doe with good Books, then many other Callings have; and yet alas Brethren, I feare we have been more profane and wicked, then ſuch as are of many other Callings. O beware of Intemperance and Exceſſe, for that we have been too guilty of; Oh labour to know God, and to live with God, and keep cloſe to him in fre<g ref="char:EOLhyphen"/>quenting holy duties, both in publick &amp; private; and ſo turn unto God with all our hearts, and that ſpeedily: And I beſeech you be thankfull to God for me, and pray for me, that the Lord who hath in mercy begun a good work in me, would confirm it unto the day of Jeſus Chriſt; which he grant for Chriſts ſake, <hi>Amen.</hi>
+            </p>
+            <closer/>
+            <postscript>
+               <p>NOw if any through ignorance may ſuffer themſelves hereafter to be perſwaded either by their own corruptions, or Satans temptations, that this former Relation is but a fained thing, or ſome melancholy Fit one<g ref="char:EOLhyphen"/>ly, or ſuch like, I would entreat them to take an opportunity to come to my houſe in <hi>Little-Woodſtreet</hi> in <hi>Bunting-Alley,</hi> and I will with the Lords help, give what ſatisfaction I am able.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152476:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
